@@ -1,4 +1,4 @@
-#  
+#  Alfred for macOS best Macro: tags & quick search is the best Alfred for macOS macro, featuring tags and quick search. Safe, efficient, and optimized for macOS users.
 
 
 
